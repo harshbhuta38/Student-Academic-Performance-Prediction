@@ -1,5 +1,5 @@
 # Student-Academic-Performance-Prediction
-It is machine learning model used to predict student's performance.
+It is machine learning model used to predict student's performance based on a number of attributes.
 
 ## Algorithms Used:
 * SVM

@@ -7,6 +7,6 @@ It is machine learning model used to predict student's performance based on a nu
 
 ## Description:
 
-* The dataset is taken from Kaggle.
+* The dataset is of a class of students majoring in Computer Science.
 * Implementation is done after refering to similar research papers.
 * SVM is used to try and improve the results found from Neural networks.
